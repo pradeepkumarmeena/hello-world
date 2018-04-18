@@ -1,2 +1,5 @@
 # hello-world
-first time 
+first time; 
+hi friends; 
+name=pradeep kumar meena;
+iit ropar
